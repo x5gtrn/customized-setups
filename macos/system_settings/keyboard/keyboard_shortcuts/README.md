@@ -1,4 +1,4 @@
-# [Customized Setups](..%2F..%2F..%2F)
+# [Customized Setups](..%2F..%2F..%2F..%2F)
 
 ## macOS - System Settings
 
